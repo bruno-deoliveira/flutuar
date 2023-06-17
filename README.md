@@ -39,7 +39,7 @@ $ git clone https://github.com/bruno-deoliveira/flutuar.git
 $ cd flutuar
 ```
 ## 📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/bruno-deoliveira/flutuar_viagens/blob/main/LICENSE) para mais detalhes.
 
 ## 🔎 My LinkedIn 
 <a href="https://www.linkedin.com/in/bruno-almeida-deoliveira"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
