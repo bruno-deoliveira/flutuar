@@ -6,7 +6,7 @@
 </p>
 
 ## 💻 Projeto
-Desafio intermediário - Recriando layout - Explore Rocketseat
+Desafio 01 intermediário - Recriando layout - Explore Rocketseat
 
 Nesse desafio, foi recriado uma aplicação, a partir de um layout pronto no Figma, para fortalecer alguns conceitos aprendidos:
 - Estruturação do projeto HTML;
